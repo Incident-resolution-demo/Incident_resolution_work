@@ -34,7 +34,7 @@ def load_data(path):
     return df
 
 # 👇 Change the filename if needed
-data = load_data("incident_data.xlsx")
+data = load_data("Design Central Overall Cases Metrics (6).xlsx")
 
 # -----------------------------
 # Build TF-IDF retriever
